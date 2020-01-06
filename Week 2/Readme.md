@@ -6,7 +6,16 @@
   * Sklearn
     * model_selection
       * train_test_split
+      * validation_curve
     * linear_model
       * LinearRegression
+      * Lasso
     * preprocessing
       * PolynomialFeatures
+    * metrics.regression
+      * r2_score
+    * tree
+      * DecisionTreeClassifier
+    * svm
+      * SVC
+  * Matplotlib
